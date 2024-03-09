@@ -1,0 +1,9 @@
+.: Account Details :.
+=================================
+Login: hfunk@hotmail.es:bluesfunk1
+Pro Status: Free
+=================================
+ 
+mega:/MEGAsync/                                    0          2015-07-16T23:02:25+02:00
+mega:/MEGAsync Imports/                            0          2015-07-17T00:17:37+02:00
+mega:/Windows Sync/                                0          2015-10-08T19:42:34+02:00

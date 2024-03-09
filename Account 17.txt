@@ -1,0 +1,9 @@
+.: Account Details :.
+=================================
+Login: jin_alex20@hotmail.com:jin104223
+Pro Status: Free
+=================================
+ 
+mega:/Windows Sync/                                0          2016-11-04T18:39:43+01:00
+mega:/archivos/                                    0          2016-11-04T18:40:10+01:00
+mega:/Camera Uploads/                              0          2016-11-04T19:40:52+01:00
